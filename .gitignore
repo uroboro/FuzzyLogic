@@ -1,0 +1,16 @@
+# the usual suspect
+.DS_Store
+._*
+Carthage
+
+# from https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
